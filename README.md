@@ -1,23 +1,26 @@
 # Truth or Dare Game
 
-A simple **Truth or Dare** web game built using **HTML, CSS, and JavaScript**.  
-It randomly selects a truth question or a dare challenge when the user clicks a button.
+A simple Truth or Dare game built using HTML, CSS, and JavaScript with difficulty levels and mobile responsive design.
 
 ---
 
 ## 🚀 Features
 
+- Difficulty levels: Easy, Medium, Hard  
 - Random truth generator  
 - Random dare generator  
-- Clean and simple UI  
-- Large set of tasks  
+- Mobile responsive UI  
+- Clean design  
 - No external libraries  
-- Fully client-side  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
+- HTML  
+- CSS  
+- JavaScript (Vanilla)
+
+---
+
+## 📁 Project Structure
