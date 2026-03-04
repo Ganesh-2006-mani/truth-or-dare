@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Truth or Dare</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -10,13 +11,19 @@
 <div class="container">
   <h1>Truth or Dare</h1>
 
+  <select id="level">
+    <option value="easy">Easy</option>
+    <option value="medium">Medium</option>
+    <option value="hard">Hard</option>
+  </select>
+
   <div class="buttons">
     <button onclick="getTruth()">Truth</button>
     <button onclick="getDare()">Dare</button>
   </div>
 
   <div class="output" id="output">
-    Click Truth or Dare to start!
+    Select level and choose Truth or Dare
   </div>
 </div>
 
